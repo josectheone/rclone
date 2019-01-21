@@ -42,3 +42,5 @@ echo 'Exec=rclone_onedrive' >> ~/.config/autostart/onedrive.desktop
 echo 'Type=Application' >> ~/.config/autostart/onedrive.desktop
 
 echo 'Instalação terminada com sucesso'
+echo 'Script creado por Josectheone'
+echo '21/01/2019'
